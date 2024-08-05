@@ -1,15 +1,38 @@
 ---
 title: "Research"
 layout: default
-excerpt: "RT2 Lab -- Research"
+excerpt: "DISys Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat duis ultricies. Commodo viverra maecenas accumsan lacus vel. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Pellentesque sit amet porttitor eget dolor morbi non. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Id aliquet risus feugiat in. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Sapien pellentesque habitant morbi tristique. Sapien eget mi proin sed libero enim. Viverra vitae congue eu consequat ac felis donec.
+### Decentralized Algorithms for Decarbonizing Chemical Process Heating with Renewable-driven, Electric Power Systems
+![](/images/research/decarbonization.png){:.centered}
 
-Mauris vitae ultricies leo integer malesuada. Vulputate ut pharetra sit amet aliquam id diam maecenas. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Et tortor at risus viverra adipiscing at in. Urna nunc id cursus metus aliquam eleifend. Massa tincidunt dui ut ornare lectus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Enim diam vulputate ut pharetra sit. Facilisi cras fermentum odio eu feugiat pretium. Commodo elit at imperdiet dui accumsan sit amet nulla. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Vivamus at augue eget arcu dictum varius duis. Faucibus pulvinar elementum integer enim neque volutpat. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
+Chemical and refining industries are responsible for roughly half of the U.S. manufacturing sector’s energy usage and greenhouse gas (GHG) emissions.
+In this project we are trying to address fundamental issues associated with privacy and data sharing that can serve as a major roadblock for the smooth integration of 
+electrified chemical process with power system infrastructure to achieve industrial decarbonization.
 
-Cras adipiscing enim eu turpis. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Sed lectus vestibulum mattis ullamcorper velit. Ut faucibus pulvinar elementum integer. Mattis nunc sed blandit libero volutpat sed cras ornare. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Risus nullam eget felis eget nunc lobortis mattis. In tellus integer feugiat scelerisque varius morbi enim. Eget nunc lobortis mattis aliquam faucibus purus in. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Augue neque gravida in fermentum et sollicitudin ac orci. Id donec ultrices tincidunt arcu non. Pharetra et ultrices neque ornare aenean euismod. Purus faucibus ornare suspendisse sed. Nibh tellus molestie nunc non blandit massa enim. Non diam phasellus vestibulum lorem sed risus. Vel eros donec ac odio tempor orci dapibus ultrices in. Libero id faucibus nisl tincidunt.
+### Trustworthy, Privacy-Preserving Decentralized Cyber Attack Detection on Critical Infrastructure Networks
+![](/images/research/incyse.png){:.centered}
+
+Critical infrastructure networks (such as gas, water, and power) are large-scale cyber-physical systems comprising multiple stakeholder 
+entities that manage and operate different sections of the network. This project serves as a key enabler for developing decentralized 
+algorithmic and computational frameworks for cyberattack detection that deliver robust detection outcomes. 
+The idea is to bolster situational awareness of local stakeholders by focusing on learning subsystem interdependencies with strong privacy guarantees.
+
+### Energy Efficient, Low Latency Distributed Computation with Neuromorphic Edge Devices  
+
+![](/images/research/neuromorphic.png){:.centered}
+
+Neuromorphic computing paradigms can potentially be leveraged to solve optimization problems at the edge up to 10x faster, with the promise of near constant 
+order computational complexities. In this project, we seek to develop hardware-software codesign frameworks that leverage neuromorphic devices to deliver a
+superior computational performance at edge locations in a decentralized fashion. 
+
+### Distributed Memory Communication Primitives on Container based Decentralized Systems
+The goal of this project is to build a container based computational framework, that enables decentralized, predictive analytics and machine learning. 
+Gustavo is a container orchestration framework constructed for Demo A3 under Research Thrust (RT) 2 of NASA HOME STRI Project. Gustavo is designed to be a 
+one stop shop for administering applications in an autonomous, self aware fashion. Gustavo is available in a Command Line Interface and can be run on 
+Linux/Mac Environments as well as under Windows with the help of Windows Subsystem for Linux (WSL). You can download and install Gustavo [here!](https://gustavo.readthedocs.io/en/latest/)

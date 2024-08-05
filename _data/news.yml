@@ -1,21 +1,63 @@
-- date: 05/09/19
-  title: "Another great thing"
+- date: 07/12/24
+  title: "Paper accepted at Cell Reports Physical Science"
   tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+    - paper
+  abstract: New paper explores federated learning to carry out prognostics for batteries without the need to move data
+  content: >
+           Our paper entitled "Catalyzing Deep Decarbonization : Federated Battery Diagnosis and Prognosis for Better Data Management in Energy Storage Systems"
+           has been accepted in Cell Reports Physical Science. In this paper we explore an understated benefit of decentralized federated learning paradigms
+           that enables small and medium sized enterprises (SMEs) to reduce the barrier of entry for accessing sophisticated machine learning insights. We demonstrate 
+           SMEs in the energy storage industry can obtain high quality, prognostics outcomes in a fully decentralized fashion without the need to move their data. 
+           This is joint work with Dr. Murat Yildirim from Wayne State University and Drs. Susan Babinec, Feng Qiu and Noah Paulson from Argonne National Labs.
 
-- date: 03/09/19
-  title: "Something great"
+- date: 07/01/24
+  title: "NSF EAGER Grant for addressing privacy challenges in chemical process decarbonization"
+  link: "https://news.okstate.edu/articles/engineering-architecture-technology/2024/two_osu_engineering_professors_receive_nsf_eager_award_to_study_ways_to_decarbonize_heavy_industries.html"
   tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+    - grants
+  abstract: Dr. Ramanan leads a new NSF grant to support research on decentralized optimization methods for industrial decarbonization
+  content: The NSF EAGER grant that focuses on developing privacy focused decentralized methodologies
+           to securely and safely integrate chemical process heating systems with existing renewable-driven, electric transmission systems.
+           This is joint work with Dr. Zheyu Jiang from School of Chemical Engineering at OSU. 
+
+
+- date: 06/10/24
+  title: "Paper accepted at ACM International Conference on Neuromorphic Systems (ICONS) 2024"
+  tags:
+    - paper
+  abstract: New paper explores a computational simulation framework for large scale neuromorphic computing systems.
+  content: >
+           Our paper "The Lynchpin of In-Memory Computing: A Benchmarking Framework for Vector-Matrix Multiplication in RRAMs"
+           has been accepted in ACM ICONS 2024. In this paper, we develop a novel, scalable framework for simulating matrix vector multiplications in analog space on
+           neuromorphic computational systems. Our framework can be used to develop higher order optimization and AI libraries that can be executed and simulated on
+           neuromorphic accelerators. This is joint work with Dr. Murat Yildirim, Gozde Tutuoncuoglu from Wayne State University.
+
+- date: 05/18/24
+  title: "IISE'24: Dr. Ramanan chairs a session and presents research on decentralized scenario generation"
+  tags:
+    - talk
+  abstract: Dr. Ramanan's session and presentation was part of the Energy Systems Division track at IISE 2024.
+  content: >
+           Dr. Ramanan's session entitled "Privacy and Security in Power Systems" included talks on decentralized planning and operations in the power system domains
+           while also including latest DISys Lab research on decentralized scenario generation.
+
+- date: 03/27/24
+  title: "Finalists for Energy Systems Division, Best Student Paper at IISE 2024"
+  tags:
+    - paper
+  abstract: Mohaimanul and Lucius have qualified for the best student paper award at the Energy Systems Division track at IISE 2024.
+  content: >
+           PhD students Mohaimanul Islam and Lucius Vo have been declared finalists for the Energy Systems Division, Best Student Paper Award competition at
+           the Institute of Industrial and Systems Engineers Annual Conference 2024 to be held in Montreal, Canada. Their submission entitled
+           "SplitVAES: Decentralized generation of scenarios from siloed data for stochastic optimization in large-scale power systems" focuses on generating 
+           high quality data driven scenarios for stochastic optimization problems.
+
+- date: 12/05/23
+  title: "Masters thesis defense: Congratulations Timman!"
+  tags:
+    - defense
+  abstract: Timman defends Master's thesis on the use of VAEs for generating stochastic optimization scenarios
+  content: >
+           Timman's research is aimed at removing computational and scalability barriers corresponding to the use of Variational Autoencoders (VAEs) for scenario generation 
+           for stochastic optimization problems. 
+    

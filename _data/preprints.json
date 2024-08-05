@@ -1,0 +1,75 @@
+[
+	{
+		"id": "http://zotero.org/groups/5618423/items/D2EY3K76",
+		"type": "article-journal",
+		"container-title": "arXiv e-prints",
+		"page": "arXiv–2310",
+		"title": "Federated Battery Diagnosis and Prognosis",
+		"link": "https://arxiv.org/abs/2310.09628",
+		"author": [
+			{
+				"family": "Banu Altinpulluk",
+				"given": "Nur"
+			},
+			{
+				"family": "Altinpulluk",
+				"given": "Deniz"
+			},
+			{
+				"family": "Ramanan",
+				"given": "Paritosh"
+			},
+			{
+				"family": "Paulson",
+				"given": "Noah"
+			},
+			{
+				"family": "Qiu",
+				"given": "Feng"
+			},
+			{
+				"family": "Babinec",
+				"given": "Susan"
+			},
+			{
+				"family": "Yildirim",
+				"given": "Murat"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5618423/items/5ACPAJM4",
+		"type": "article-journal",
+		"container-title": "arXiv preprint arXiv:2310.06948",
+		"title": "A Variational Autoencoder Framework for Robust, Physics-Informed Cyberattack Recognition in Industrial Cyber-Physical Systems",
+		"link": "https://arxiv.org/abs/2310.06948",
+		"author": [
+			{
+				"family": "Aftabi",
+				"given": "Navid"
+			},
+			{
+				"family": "Li",
+				"given": "Dan"
+			},
+			{
+				"family": "Ramanan",
+				"given": "Paritosh"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	}
+]

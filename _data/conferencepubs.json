@@ -1,0 +1,277 @@
+[
+	{
+		"id": "http://zotero.org/groups/5618423/items/KT8GSD5Z",
+		"type": "document",
+		"title": "BLOCKCHAIN-BASED DECENTRALIZED COMPUTING",
+		"author": [
+			{
+				"family": "Paritosh P.",
+				"given": "Ramanan"
+			},
+			{
+				"family": "Nagi Z.",
+				"given": "Gebraeel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5618423/items/6YFMZWRB",
+		"type": "paper-conference",
+		"container-title": "2020 19th IEEE International Conference on Machine Learning and Applications (ICMLA)",
+		"page": "438–445",
+		"publisher": "IEEE",
+		"title": "Deep learning based covert attack identification for industrial control systems",
+		"link": "https://ieeexplore.ieee.org/abstract/document/9356280/",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Dan"
+			},
+			{
+				"family": "Ramanan",
+				"given": "Paritosh"
+			},
+			{
+				"family": "Gebraeel",
+				"given": "Nagi"
+			},
+			{
+				"family": "Paynabar",
+				"given": "Kamran"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5618423/items/V6SX3LVM",
+		"type": "paper-conference",
+		"container-title": "Domain Decomposition Methods in Science and Engineering XXV 25",
+		"page": "134–142",
+		"publisher": "Springer International Publishing",
+		"title": "Asynchronous one-level and two-level domain decomposition solvers",
+		"link": "https://link.springer.com/chapter/10.1007/978-3-030-56750-7_14",
+		"author": [
+			{
+				"family": "Glusa",
+				"given": "Christian"
+			},
+			{
+				"family": "Boman",
+				"given": "Erik G"
+			},
+			{
+				"family": "Chow",
+				"given": "Edmond"
+			},
+			{
+				"family": "Rajamanickam",
+				"given": "Sivasankaran"
+			},
+			{
+				"family": "Ramanan",
+				"given": "Paritosh"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5618423/items/2RLLUJFN",
+		"type": "paper-conference",
+		"container-title": "IEEE International Conference on Blockchain, 2020",
+		"page": "72–81",
+		"publisher": "https://ieeexplore.ieee.org/abstract/document/9284684",
+		"title": "BAFFLE : Blockchain based Aggregator Free Federated Learning",
+		"link": "https://ieeexplore.ieee.org/abstract/document/9284684",
+		"author": [
+			{
+				"family": "Ramanan",
+				"given": "Paritosh"
+			},
+			{
+				"family": "Nakayama",
+				"given": "Kiyoshi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5618423/items/F9WHNEDB",
+		"type": "article-journal",
+		"container-title": "Procedia Computer Science",
+		"note": "publisher: Elsevier",
+		"page": "665–674",
+		"title": "Asynchronous decentralized framework for unit commitment in power systems",
+		"link": "https://www.sciencedirect.com/science/article/pii/S1877050917305550",
+		"volume": "108",
+		"author": [
+			{
+				"family": "Ramanan",
+				"given": "Paritosh"
+			},
+			{
+				"family": "Yildirim",
+				"given": "Murat"
+			},
+			{
+				"family": "Chow",
+				"given": "Edmond"
+			},
+			{
+				"family": "Gebraeel",
+				"given": "Nagi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5618423/items/VPLY38AF",
+		"type": "paper-conference",
+		"container-title": "2015 IEEE International Conference on Computer and Information Technology; Ubiquitous Computing and Communications; Dependable, Autonomic and Secure Computing; Pervasive Intelligence and Computing (CIT/IUCC/DASC/PICOM)",
+		"page": "1244–1251",
+		"publisher": "IEEE Computer Society",
+		"title": "Dristi: Distributed real-time in-situ seismic tomographic imaging",
+		"link": "https://www.computer.org/csdl/proceedings-article/cit-iucc-dasc-picom/2015/07363229/12OmNAXglIH",
+		"author": [
+			{
+				"family": "Kamath",
+				"given": "Goutham"
+			},
+			{
+				"family": "Song",
+				"given": "Wen-Zhan"
+			},
+			{
+				"family": "Ramanan",
+				"given": "Paritosh"
+			},
+			{
+				"family": "Shi",
+				"given": "Lei"
+			},
+			{
+				"family": "Yang",
+				"given": "Junjie"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5618423/items/NEIUV79P",
+		"type": "paper-conference",
+		"container-title": "2015 International Conference on Distributed Computing in Sensor Systems",
+		"page": "169–178",
+		"publisher": "IEEE",
+		"title": "Distributed randomized Kaczmarz and applications to seismic imaging in sensor network",
+		"link": "https://ieeexplore.ieee.org/abstract/document/7165035/",
+		"author": [
+			{
+				"family": "Kamath",
+				"given": "Goutham"
+			},
+			{
+				"family": "Ramanan",
+				"given": "Paritosh"
+			},
+			{
+				"family": "Song",
+				"given": "Wen-Zhan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5618423/items/HKJ8VI8K",
+		"type": "paper-conference",
+		"container-title": "2015 IEEE 16th International Symposium on A World of Wireless, Mobile and Multimedia Networks (WoWMoM)",
+		"page": "1–8",
+		"publisher": "IEEE",
+		"title": "NetTomo: A tomographic approach towards network diagnosis",
+		"link": "https://ieeexplore.ieee.org/abstract/document/7158156/",
+		"author": [
+			{
+				"family": "Ramanan",
+				"given": "Paritosh"
+			},
+			{
+				"family": "Kamath",
+				"given": "Goutham"
+			},
+			{
+				"family": "Song",
+				"given": "Wen-Zhan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5618423/items/4QANBIR9",
+		"type": "article-journal",
+		"title": "Achieving connectivity in an Unstructured Wireless Sensor Network using Optimal Assignment of Mobile Nodes",
+		"link": "https://personales.upv.es/thinkmind/dl/conferences/icn/icn_2013/icn_2013_1_20_10113.pdf",
+		"author": [
+			{
+				"family": "Ramanan",
+				"given": "Paritosh"
+			},
+			{
+				"family": "Gaikwad",
+				"given": "Prathamesh"
+			},
+			{
+				"family": "Vidyadharan",
+				"given": "Sreejith"
+			}
+		]
+	}
+]

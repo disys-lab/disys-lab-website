@@ -1,13 +1,19 @@
 ---
 title: "Home"
 layout: homelay
-excerpt: "RT2 Lab at Institut Curie"
+excerpt: "Distributed Intelligent Systems Laboratory at Oklahoma State University"
 sitemap: false
 permalink: /
 ---
 
-### About the Lab
+### About the DISys Lab
+The Distributed Intelligent Systems (DISys) Laboratory at Oklahoma State University is headed 
+by Prof. Paritosh Ramanan, an Assistant Professor in the School of Industrial Engineering and Management. 
+Our primary research objectives lie in exploring novel distributed algorithmic and computational frameworks to tackle efficiency, 
+privacy, and security issues in large-scale industrial systems. Research at the lab consists of developing new distributed 
+and decentralized methodologies focusing on optimization, machine learning and analytics. A significant part of our research also revolves
+around scalability and implementation oriented design challenges that have led to open-sourced projects as well as patents.
+Our research is being applied to alleviate critical gaps in exciting areas such as cybersecurity of Industrial Control Systems (ICS), 
+chemical process decarbonization, energy systems, and neuromorphic computing. You can read more about our research here!
 
-Mauris vitae ultricies leo integer malesuada. Vulputate ut pharetra sit amet aliquam id diam maecenas. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Et tortor at risus viverra adipiscing at in. Urna nunc id cursus metus aliquam eleifend. Massa tincidunt dui ut ornare lectus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Enim diam vulputate ut pharetra sit. Facilisi cras fermentum odio eu feugiat pretium. Commodo elit at imperdiet dui accumsan sit amet nulla. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Vivamus at augue eget arcu dictum varius duis. Faucibus pulvinar elementum integer enim neque volutpat. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-
-Cras adipiscing enim eu turpis. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Sed lectus vestibulum mattis ullamcorper velit. Ut faucibus pulvinar elementum integer. Mattis nunc sed blandit libero volutpat sed cras ornare. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Risus nullam eget felis eget nunc lobortis mattis. In tellus integer feugiat scelerisque varius morbi enim. Eget nunc lobortis mattis aliquam faucibus purus in. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Augue neque gravida in fermentum et sollicitudin ac orci. Id donec ultrices tincidunt arcu non. Pharetra et ultrices neque ornare aenean euismod. Purus faucibus ornare suspendisse sed. Nibh tellus molestie nunc non blandit massa enim. Non diam phasellus vestibulum lorem sed risus. Vel eros donec ac odio tempor orci dapibus ultrices in. Libero id faucibus nisl tincidunt.
+We currently have an amazing team of two doctoral and two masters students and are always looking out for new members to join our group!
