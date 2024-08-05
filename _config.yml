@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   The Distributed Intelligent Systems (DISys) Laboratory focuses on novel distributed algorithmic and computational frameworks to tackle efficiency,
 privacy, and security issues in large-scale industrial systems.
 baseurl: ""
-url: "disys-lab.github.io"
+url: ""
 
 include:
   - .htaccess
