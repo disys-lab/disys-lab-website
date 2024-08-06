@@ -13,8 +13,8 @@ permalink: /news.html
             <div class="media-body">
             <h4 class="mt-0 mb-1">{{ article.title }}</h4>
             <p><small>{{ article.date }}</small></p>
-            {{ article.content }} {% if article.link %}
-                <p>You can read more about it <a href="{{publi.link}}">here</a></p>
+            {{ article.content }}
+                {% if article.link %}<p>You can read more about it <a href= "{{article.link}}">here</a></p>
             {% endif %}
             </div>
         </li>
